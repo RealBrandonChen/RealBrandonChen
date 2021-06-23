@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Know Me Quickly
-- #### Contact ✉️:
+- #### Contact 📧:
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:branchan@connect.hku.hk)](mailto:branchan@connect.hku.hk)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/RealBrandonChen)
 - #### Languages 💻:
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   ![Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=flat&logo=nintendo-switch&logoColor=white)
   ![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)
 
-
+### GitHub Analytics 🎓:
 ![RealBrandonChen's github stats](https://github-readme-stats.vercel.app/api?username=RealBrandonChen&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealBrandonChen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

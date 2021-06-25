@@ -42,3 +42,7 @@ Here are some ideas to get you started:
 ![RealBrandonChen's github stats](https://github-readme-stats.vercel.app/api?username=RealBrandonChen&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealBrandonChen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### I'm currently learning 🌱:
+- #### Unity VR Building 🎥
+- #### Relational Database :scroll:
+

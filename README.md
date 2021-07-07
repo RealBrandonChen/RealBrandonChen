@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 - #### FrameWorks 🔨:
   [![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)](https://unity.com/cn)
   ![MySql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-  ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 - #### OS&IDE ⌨️:
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)

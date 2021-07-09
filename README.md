@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 - #### FrameWorks 🔨:
   [![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)](https://unity.com/cn)
+  [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green)](https://www.djangoproject.com/)
   ![MySql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 - #### OS&IDE ⌨️:
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)

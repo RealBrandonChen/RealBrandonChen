@@ -1,4 +1,4 @@
-## Hello everyone~ 👋
+## Hello everyone~ 👋 <img src="http://views.whatilearened.today/views/github/RealBrandonChen/views.svg"/>
 
 <!--
 **RealBrandonChen/RealBrandonChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

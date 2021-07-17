@@ -1,4 +1,4 @@
-## Hello everyone~ 👋 <img src="http://views.whatilearened.today/views/github/RealBrandonChen/views.svg"/>
+## Hello everyone~ 👋 <img src="http://views.whatilearened.today/views/github/RealBrandonChen/views.svg"/>  <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
 
 <!--
 **RealBrandonChen/RealBrandonChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

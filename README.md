@@ -39,8 +39,9 @@ Here are some ideas to get you started:
   ![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)
 
 ### GitHub Analytics 🎓:
-![RealBrandonChen's github stats](https://github-readme-stats.vercel.app/api?username=RealBrandonChen&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealBrandonChen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![RealBrandonChen's github stats](https://github-readme-stats.vercel.app/api?username=RealBrandonChen&show_icons=true&hide_border=false&line_height=20&icon_color=1b93c9&show_owner=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealBrandonChen&show_icons=true&hide_border=false&line_height=20&icon_color=1b93c9&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I'm currently learning 🌱:
 - #### Unity VR Building 🎥

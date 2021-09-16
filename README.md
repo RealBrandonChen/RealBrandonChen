@@ -48,3 +48,4 @@ Here are some ideas to get you started:
 - #### Relational Database :scroll:
 ### ⚡ Fun fact: 
 - #### Learning is lifelong endeavour
+- #### How can we know where effort and time will take someone?

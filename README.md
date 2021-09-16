@@ -46,4 +46,5 @@ Here are some ideas to get you started:
 ### I'm currently learning 🌱:
 - #### Unity VR Building 🎥
 - #### Relational Database :scroll:
-### ⚡ Fun fact:
+### ⚡ Fun fact: 
+- #### Learning is lifelong endeavour

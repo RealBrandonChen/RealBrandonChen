@@ -34,9 +34,10 @@ Here are some ideas to get you started:
   ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 - #### BigFan Of 🏏:
+  🏂Snowboard
+  🚣Kayak
   ![PS4](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)
   ![Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=flat&logo=nintendo-switch&logoColor=white)
-  ![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)
 
 ### GitHub Analytics 🎓:
 ![RealBrandonChen's github stats](https://github-readme-stats.vercel.app/api?username=RealBrandonChen&show_icons=true&hide_border=false&line_height=20&icon_color=1b93c9&show_owner=true)

@@ -46,7 +46,8 @@ Here are some ideas to get you started:
 
 ### I'm currently learning 🌱:
 - #### Unity VR Building 🎥
-- #### Relational Database :scroll:
+- #### Automation robotics
+- #### ROS/PCB design
 ### ⚡ Fun fact: 
 - #### Learning is lifelong endeavour
 - #### How can we know where effort and time will take someone?

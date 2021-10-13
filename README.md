@@ -37,7 +37,6 @@ Here are some ideas to get you started:
   🏂Snowboard
   🚣Kayak
   🗺️Mixed Reality
-  ![PS4](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)
   ![Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=flat&logo=nintendo-switch&logoColor=white)
 
 ### GitHub Analytics 🎓:

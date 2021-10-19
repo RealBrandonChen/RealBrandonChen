@@ -28,6 +28,8 @@ Here are some ideas to get you started:
   [![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)](https://unity.com/cn)
   [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green)](https://www.djangoproject.com/)
   [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+  [![AWS](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)](https://aws.amazon.com/)
+  
 - #### OS&IDE ⌨️:
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)

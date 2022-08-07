@@ -26,9 +26,14 @@ Here are some ideas to get you started:
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 - #### Tools 🔨:
-  [![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)](https://unity.com/cn)
-  ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=LaTeX&logoColor=white)
-  
+  <p align="left"> 
+  <a href="https://www.solidworks.com/zh-hans" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/solidworks.svg" alt="solidworks" width="40" height="40"/> </a> 
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+  <a href="https://www.zemax.com/" target="_blank"><img src="https://logovectorseek.com/wp-content/uploads/2020/02/zemax-logo-vector.png"  alt="zemax" width="80" height="40"/ /></a>
+  <a href="https://unity.com/cn" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/LaTeX_project_logo_bird.svg" alt="LaTex" width="100" height="40"/> </a> 
+  </p>
 - #### OS&IDE ⌨️:
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
@@ -37,7 +42,6 @@ Here are some ideas to get you started:
 - #### BigFan Of 🏏:
   🏂Snowboard
   🚣Kayak
-  🗺️Mixed Reality
   ![Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=flat&logo=nintendo-switch&logoColor=white)
 
 ### GitHub Analytics 🎓:
@@ -45,11 +49,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealBrandonChen&show_icons=true&hide_border=false&line_height=20&icon_color=1b93c9&show_owner=true&hide=shell,tex,jupyter%20notebook,scss&exclude_repo=)](https://github.com/anuraghazra/github-readme-stats)
 
-![RealBrandonChen's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={RealBrandonChen}&theme=vue)
-
-### I'm currently learning 🌱:
-- #### Automation robotics
-- #### ROS/PCB design
+###  🌱 I'm currently working and learning on image-guided robotic system. See Google Scholar for more details.
 ### ⚡ Fun fact: 
 - #### Learning is lifelong endeavour
-- #### How can we know where effort and time will take someone?

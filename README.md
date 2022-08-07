@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - #### Contact 📧:
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:branchan@connect.hku.hk)](mailto:branchan@connect.hku.hk)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/RealBrandonChen)
-  [![LinkIn]https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-chen-peng-80a750173/)
+  [![LinkIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-chen-peng-80a750173/)
   [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat&&logo=wechat&logoColor=white)](+86 15995725737)
 - #### Languages 💻:
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 - #### Tools 🔨:
   [![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)](https://unity.com/cn)
-  [![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+  [![Latex](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=LaTeX&logoColor=white)
   
 - #### OS&IDE ⌨️:
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)

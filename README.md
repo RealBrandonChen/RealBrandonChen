@@ -24,15 +24,16 @@ Here are some ideas to get you started:
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 - #### Tools 🔨:
   <p align="left"> 
-  <a href="https://www.solidworks.com/zh-hans" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/solidworks.svg" alt="solidworks" width="40" height="40"/> </a> 
+  <a href="https://www.solidworks.com/zh-hans" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" alt="solidworks" width="50" height="50"/> </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
   <a href="https://www.zemax.com/" target="_blank"><img src="https://logovectorseek.com/wp-content/uploads/2020/02/zemax-logo-vector.png"  alt="zemax" width="80" height="40"/ /></a>
   <a href="https://unity.com/cn" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/LaTeX_project_logo_bird.svg" alt="LaTex" width="100" height="40"/> </a> 
+  <a href="https://www.blender.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/logo-blender.svg"  alt="blender" width="100" height="50"/ /></a>
+    
   </p>
 - #### OS&IDE ⌨️:
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
